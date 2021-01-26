@@ -12,4 +12,4 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
-wget -O package/lean/xray/Makefile https://raw.githubusercontent.com/coolsnowwolf/lede/master/package/lean/xray/Makefile
+#wget -O package/lean/xray/Makefile https://raw.githubusercontent.com/coolsnowwolf/lede/master/package/lean/xray/Makefile
